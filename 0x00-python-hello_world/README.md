@@ -20,4 +20,4 @@ Project done during sprint 2 of my **ALX SE PROGRAMME**. This is the start of th
 | `102-magic_calculation.py` | Python function that does exactly the same as a given disassembler |
 
 ##AUTHOR
-Ogulu Josia Sam <https://github.com/JoeSireCodes>
+[Ogulu Josiah Sam](https://github.com/JoeSireCodes)
